@@ -18,3 +18,10 @@ A wrong answer is mapped to the concept being tested and its prerequisites. The 
 
 ## Live Demo
 🌐 https://learning-gap-detector-ashoka.onrender.com
+
+## Version history
+- **V1 — Diagnostic:** multi-subject diagnostic tests and concept-level scoring.
+- **V2 — Gap intelligence:** prerequisite graph, Strong / At Risk / Gap states, root-cause dependency tracing and next-action guidance.
+- **V3 — Remediation:** targeted mastery checks require evidence before a gap is marked recovered; remediation attempts persist locally.
+
+**Current version: V3**
