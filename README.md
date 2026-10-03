@@ -17,4 +17,4 @@ A diagnostic learning app that goes beyond scores by identifying weak prerequisi
 A wrong answer is mapped to the concept being tested and its prerequisites. The concept map makes those dependencies visible, helping the learner focus on the missing foundation instead of simply repeating the entire topic.
 
 ## Live Demo
-Live deployment URL will be added after deployment.
+🌐 https://learning-gap-detector-ashoka.onrender.com
